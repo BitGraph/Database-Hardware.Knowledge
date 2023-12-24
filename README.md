@@ -6,6 +6,8 @@ relation: Computer Science
 
 
 ## Implementation:
+list: https://en.wikipedia.org/wiki/Transactional_memory#Available_implementations
+
 ### Intel - Transactional Synchronization Extensions
 wiki: https://en.wikipedia.org/wiki/Transactional_Synchronization_Extensions
 
