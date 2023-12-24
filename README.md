@@ -1,5 +1,14 @@
 # Database-Hardware.Knowledge
-# Transactional Synchronization Extensions
+
+# Theory: Transactional memory
+https://en.wikipedia.org/wiki/Transactional_memory
+relation: Computer Science
+
+
+## Implementation:
+### Intel - Transactional Synchronization Extensions
 wiki: https://en.wikipedia.org/wiki/Transactional_Synchronization_Extensions
 
-relation: https://en.wikipedia.org/wiki/Transactional_memory
+### AMD - Advanced Synchronization Facility
+https://en.wikipedia.org/wiki/Advanced_Synchronization_Facility
+
